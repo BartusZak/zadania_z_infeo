@@ -1,9 +1,9 @@
-#Jaki otrzymamy wynik:
+# Jaki otrzymamy wynik:
 (12.3 != 123) = bool(true)
 ('123' == 123) = bool(true)
 ('123' === 123) = bool(false)
 
-#Wypisać min z tablicy bez używania wbudowanych funkcji:
+# Wypisać min z tablicy bez używania wbudowanych funkcji:
 $numbers = array(12,23,45,20,5,6,34,17,9,56);
 
 Max: 56.
@@ -18,7 +18,7 @@ Min: 5.
             echo "Max: ".$max.".";
             echo "Min: ".$min.".";
             
-#Zamiana wartości zmiennych:
+# Zamiana wartości zmiennych:
 $a = 1, $b = 5;
 
 Przed zamianą: $a = 1, $b = 5.
@@ -27,7 +27,7 @@ Po zamianie: $a = 5, $b = 1.
                 $a = $b;
                 $b = $pom;
             
-#Wypisać ciąg fibonacciego
+# Wypisać ciąg fibonacciego
 0 1 1 2 3 5 8 13 21 34
 
 0 1 1 2 3 5 8 13 21 34
