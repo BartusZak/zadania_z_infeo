@@ -1,6 +1,8 @@
 # Jaki otrzymamy wynik:
 (12.3 != 123) = bool(true)
+
 ('123' == 123) = bool(true)
+
 ('123' === 123) = bool(false)
 
 # Wypisać min z tablicy bez używania wbudowanych funkcji:
